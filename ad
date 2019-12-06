@@ -1,0 +1,29 @@
+[33mcommit 13e71a2cd359c07c8349e5bce7c78fbdb5575d36[m[33m ([m[1;36mHEAD -> [m[1;32mbr4[m[33m)[m
+Author: Ehsan <parsun37@yahoo.com>
+Date:   Thu Dec 5 19:55:26 2019 -0500
+
+    added console.log
+
+[33mcommit b76afc9fe09c7c0e4a2e5247c7a9ed274195028b[m[33m ([m[1;32mbr3[m[33m)[m
+Author: Ehsan <parsun37@yahoo.com>
+Date:   Thu Dec 5 19:51:01 2019 -0500
+
+    added alert to app.js
+
+[33mcommit 8213ffef2b93a808be58f7ad5da50fe5abfd0f03[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Ehsan <parsun37@yahoo.com>
+Date:   Thu Dec 5 19:05:32 2019 -0500
+
+    added readme and app.js
+
+[33mcommit 3182efa17045390bb891b84795313b1a34f6cbe0[m
+Author: Ehsan <parsun37@yahoo.com>
+Date:   Thu Dec 5 17:59:46 2019 -0500
+
+    added h1 tag
+
+[33mcommit a70be86e8ac47f9c33cdbd920af18cef028a94b0[m
+Author: Ehsan <parsun37@yahoo.com>
+Date:   Thu Dec 5 17:56:58 2019 -0500
+
+    first commit
